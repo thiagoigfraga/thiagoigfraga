@@ -1,4 +1,3 @@
-<h1 align="center">Glad to see you, I'm Thiago 🦥 😼 🇧🇷</h1>
 <h3 align="center">This is all I have. For now!</h3>
 
 - 🖥️ CS student at [UNICENTRO](www3.unicentro.br)
@@ -10,8 +9,6 @@
 - 💬 Ask me about **HTML, CSS, JS [AJAX], SASS[SCSS] and Adobe XD**
 
 - 📧 Send a e-mail: **thiagogarciafraga99@gmail.com**
-
-- facts:::::::: **I love my cat, my family and my bed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
