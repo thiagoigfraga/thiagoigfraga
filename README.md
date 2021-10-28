@@ -1,12 +1,12 @@
 # **Sobre mim**
 
-- ## 🔄 Em uma constante de estudos
+- 🔄 Em uma constante de estudos
 
-- ## 📖 4º Período de Ciência da Computação na [UNICENTRO](https://www3.unicentro.br/)
+- 📖 4º Período de Ciência da Computação na [UNICENTRO](https://www3.unicentro.br/)
 
-- ## 👨‍💻 Tenho conhecimento intermediário no Front-end e sou iniciante no Back-end 
+- 👨‍💻 Tenho conhecimento intermediário no Front-end e sou iniciante no Back-end 
 
-- ## 👻 Gosto de RPG, pizza e do gato da foto, **mingau**!
+- 👻 Gosto de RPG, pizza e do gato da foto, **mingau**!
 
 
 \
