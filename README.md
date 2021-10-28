@@ -1,16 +1,16 @@
 # **Sobre mim**
 
-- 🔄 Em uma constante de estudos
 
-- 📖 4º Período de Ciência da Computação na [UNICENTRO](https://www3.unicentro.br/)
+- 🔄&nbsp;&nbsp;&nbsp;Em uma constante de estudos
 
-- 👨‍💻 Tenho conhecimento intermediário no Front-end e sou iniciante no Back-end 
+- 📖&nbsp;&nbsp; 4º Período de Ciência da Computação na [UNICENTRO](https://www3.unicentro.br/)
 
-- 👻 Gosto de RPG, pizza e do gato da foto, **mingau**!
+- 👨‍💻&nbsp;&nbsp; Tenho conhecimento intermediário no Front-end e sou iniciante no Back-end 
+
+- 👻&nbsp;&nbsp; Gosto de RPG, pizza e do gato da foto, **mingau**!
 
 
-\
-\
+
 \
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
