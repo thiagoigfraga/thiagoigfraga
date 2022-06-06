@@ -1,6 +1,6 @@
 # **Sobre mim**
 
-- 📖&nbsp;&nbsp; 4º Período de Ciência da Computação [UNICENTRO](https://www3.unicentro.br/)
+- 📖&nbsp;&nbsp; 5º Período de Ciência da Computação [UNICENTRO](https://www3.unicentro.br/)
 
 \
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
