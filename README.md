@@ -5,7 +5,7 @@ Hi 👋 My name is Thiago Fraga
 For all my life, I've been trying to immerse myself in everything I get into. At some moment, you'll have a favorite hobby, a favorite game or sport that you really appreciate practicing every day. For me, learning about web development, JavaScript, and its ecosystem is my favorite way to practice my knowledge and passion about computers and coding.  
 * 🌍  I'm based in Guarapuava, Paraná
 * ✉️  You can contact me at [thiagogarciafraga99@gmail.com](mailto:thiagogarciafraga99@gmail.com)
-* ✉️  [My portfolio](https://thiagofraga.netlify.app/) (on construction...)
+* 🖥️  [My portfolio](https://thiagofraga.netlify.app/) (on construction...)
 * 🤝  I'm open to collaborating on Open Source, Client-Server Systems * ⚡  Cats + Coffee + Introversion
 
 ### Skills  
